@@ -54,3 +54,14 @@ You cannot use the certificate and key in their current locations, as these may 
 ```bash
 ~/.acme.sh/acme.sh --installcert -d host.mydomain.com --key-file /root/private.key --fullchain-file /root/cert.crt
 ```
+
+# اسکن آی پی سالم کلادفلر (تحت وب)  
+<a href="https://vfarid.github.io/cf-ip-scanner" target="_blank"> CF IP Scanner github (تحت وب) </a>
+
+<a href="https://cloudflare-v2ray.vercel.app/" target="_blank"> V2ray Cloudflare github (تحت وب) </a>
+
+<a href="https://cloudflare-scanner.vercel.app/" target="_blank"> Cloudflare Scanner github (تحت وب) </a>
+
+<a href="https://ircfspace.github.io/scanner/" target="_blank"> IRCF Scanner github (تحت وب) </a>
+
+منبع [ircf.space](https://github.com/ircfspace/scanner)
