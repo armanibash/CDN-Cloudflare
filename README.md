@@ -64,4 +64,4 @@ You cannot use the certificate and key in their current locations, as these may 
 
 <a href="https://ircfspace.github.io/scanner/" target="_blank"> IRCF Scanner github (تحت وب) </a>
 
-منبع [ircf.space](https://github.com/ircfspace/scanner)
+با تشکر از [ircf.space](https://github.com/ircfspace/scanner)
